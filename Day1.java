@@ -9,6 +9,10 @@ public class Day1 {
 	public void learn() {
 		
 		System.out.println("Ask questions");
+		
+		System.out.println("practicing Git");
+		
+		System.out.println("I am just made first Change");
 	}
 
 }
